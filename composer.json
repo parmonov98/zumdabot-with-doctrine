@@ -1,0 +1,12 @@
+{
+    "require": {
+        "badfarm/zanzara": "^0.8.0",
+        "illuminate/database": "^9.23",
+        "illuminate/events": "^9.23"
+    },
+    "autoload": {
+        "classmap": [
+            "Models"
+        ]
+    }
+}
